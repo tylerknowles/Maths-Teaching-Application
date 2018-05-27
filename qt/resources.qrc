@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>resources/menuimage.png</file>
+        <file>resources/previousimage.png</file>
+        <file>resources/quadratics.png</file>
+        <file>resources/material_1.png</file>
+        <file>resources/material_2.png</file>
+        <file>resources/material_3.png</file>
+        <file>resources/material_4.png</file>
+        <file>resources/material_5.png</file>
+        <file>resources/material_6.png</file>
+        <file>resources/material_7.png</file>
+        <file>resources/material_8.png</file>
+        <file>resources/material_9.png</file>
+        <file>resources/material_10.png</file>
+        <file>resources/material_11.png</file>
+        <file>resources/material_12.png</file>
+        <file>resources/material_13.png</file>
+        <file>resources/test_1.png</file>
+        <file>resources/test_2.png</file>
+        <file>resources/test_3.png</file>
+        <file>resources/test_4.png</file>
+        <file>resources/test_5.png</file>
+        <file>resources/test_6.png</file>
+        <file>resources/test_7.png</file>
+        <file>resources/test_8.png</file>
+        <file>resources/test_9.png</file>
+        <file>resources/test_10.png</file>
+        <file>resources/test_11.png</file>
+        <file>resources/test_12.png</file>
+        <file>resources/test_13.png</file>
+        <file>resources/material_14.png</file>
+        <file>resources/material_15.png</file>
+        <file>resources/material_16.png</file>
+        <file>resources/material_17.png</file>
+        <file>resources/test_14.png</file>
+        <file>resources/test_15.png</file>
+        <file>resources/test_16.png</file>
+        <file>resources/test_17.png</file>
+        <file>resources/logo.png</file>
+        <file>resources/test.png</file>
+    </qresource>
+</RCC>

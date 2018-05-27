@@ -1,0 +1,17 @@
+1 1 Simplification of Surds
+1 2 Addition and Subtraction of Surds
+1 3 Multiplication of Surds
+1 4 Dividing Surds
+1 5 Rationalising Surds
+2 6 Introduction to Factorisation
+2 7 Highest Common Factor
+2 8 Factorising by grouping
+3 9 Elimination method for linear equations
+3 10 Substitution method for linear and non-linear equations
+4 11 Differentiation
+4 12 Second Derivative
+5 13 Integration
+6 14 Incrementing and decrementing with percentages
+7 15 Exponent
+7 16 Geometric sequence
+8 17 Vectors
